@@ -1,0 +1,2 @@
+# events-dispatch
+Event delegation
